@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst dedicated to Unlocki
 #### 🔍 Currently seeking opportunities in Data Analysis.
 
 
-### 📊 Skilled in Python, SQL, Power BI, Tableau, and Excel.
+#### 📊 Skilled in Python, SQL, Power BI, Tableau, and Excel.
 
-📚 Passionate about data-driven decision making and statistical analysis.
+#### 📚 Passionate about data-driven decision making and statistical analysis.
 
 
 
