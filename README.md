@@ -1,44 +1,35 @@
-# Hi there! 👋 I'm Zainab Khatoon
+# 👋 Hi there, I'm Zainab Khatoon!
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst dedicated to Unlocking Insights from Data. Based in India, I specialize in analyzing and interpreting complex datasets to drive business decisions.
+🎯 **Business Analyst | Data Analyst | Ex-Software Engineer**  
+🔍 Exploring data-driven insights | Automating processes | Solving business problems with tech  
+📍 Bangalore, India
 
-## 🚀 About Me
+---
 
-#### 🎓 Postgraduate in Data Science & Analytics from Imarticus Learning.
+## 🔧 About Me
 
+- 🎓 Postgraduate in Data Science & Analytics – *Imarticus Learning*  
+- 💻 Ex-Associate Software Engineer – *Xyrem Software Solutions (1.7 yrs)*  
+- 📊 Transitioning into Business Analysis and Data-Driven Decision Making  
+- 💬 Love translating data into stories and helping teams make smart choices  
 
-#### 💻 1.7 years experience as an Associate Software Engineer.
+---
 
+## 🛠️ Skills
 
-#### 🔍 Currently seeking opportunities in Data Analysis.
+- **Business Analysis**: Requirement gathering, stakeholder communication, process improvement  
+- **Data Tools**: Excel (VLOOKUP, PivotTables), SQL, Power BI, Tableau  
+- **Python**: Pandas, NumPy, Scikit-learn  
+- **Soft Skills**: Communication, Agile collaboration, Documentation  
 
+---
 
-#### 📊 Skilled in Python, SQL, Power BI, Tableau, and Excel.
+## 🌐 Let's Connect!
 
-#### 📚 Passionate about data-driven decision making and statistical analysis.
+- 💼 [LinkedIn](https://www.linkedin.com/in/zainabkhatoon)  
+- 💻 [Portfolio Website (Coming Soon)](#)  
+- 📬 Email: zainab.khatoon@email.com  
 
+---
 
-
-
-## 🛠️ Technical Skills
-
-
-#### Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-
-
-#### Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
-
-#### Database Management: SQL, Data Modeling
-
-
-#### Other Tools: Excel, Git
-
-
-
-## 📫 Connect with Me
-
-🌐 LinkedIn https://www.linkedin.com/in/zainab-khatoon-944756223/
-
-✉️ Email zainabkhtn786@gmail.com
-
+📈 *“Bridging the gap between business needs and tech solutions.”*  
