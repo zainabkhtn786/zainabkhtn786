@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zainab Khatoon!
 
-🎯 **Business Analyst | Data Analyst | Ex-Software Engineer**  
+🎯 ** Aspiring Data Analyst | Business Analyst | Ex-Software Engineer**  
 🔍 Exploring data-driven insights | Automating processes | Solving business problems with tech  
 📍 Bangalore, India
 
